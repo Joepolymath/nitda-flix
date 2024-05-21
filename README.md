@@ -13,4 +13,5 @@
 ### Contributors
 
 - [Joepolymath](https://github.com/Joepolymath)
-- [Madepoju] (https://github.com/madepoju) 
+- [Mmagama](https://github.com/mmagama)
+- [Madepoju](https://github.com/madepoju) 
